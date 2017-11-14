@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SpinnerMatriz</string>
+
+    <string name="spinner1_prompt">
+Android Vendors (Choices from XML)
+</string>
+    <string-array name="spinner1_entries">
+        <item>Lunes</item>
+        <item>Martes</item>
+        <item>Miercoles</item>
+        <item>Jueves</item>
+        <item>Viernes</item>
+    </string-array>
+    <string name="list_message_template">
+You selected \'%s\'. 21 </string>
+
+</resources>
